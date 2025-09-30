@@ -1,7 +1,7 @@
 # Hi, I'm Mustapha Harrachi 👋  
 
-🎓 **Master's student in Data Science for Smart Industry @ ENSAM Meknès (M2)**  
-📍 Based in Morocco  
+🎓 **Master's student in Data Science for Smart Manufacturing @ ENSAM Meknès (M2)**  
+📍 Based in Meknès, Morocco  
 💡 Passionate about **Machine Learning, Deep Learning, Data Mining, Big Data & Decision Analytics**  
 🚀 Experienced in **end-to-end data pipelines**, from data collection & preprocessing to advanced analytics, visualization & deployment.  
 
@@ -21,6 +21,11 @@
 - Python (NumPy, Pandas, Scikit-learn, Seaborn, SciPy, Matplotlib, BeautifulSoup, Selenium)  
 - Java, C, SQL  
 - LaTeX  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 **Machine Learning & AI**  
 - Supervised & Unsupervised Learning: KNN, Decision Trees (ID3, C4.5, CART), Random Forest, SVM, K-means  
