@@ -1,40 +1,76 @@
-# Hi, I'm Mustapha 👋
+# Hi, I'm Mustapha Harrachi 👋  
 
-🎓 Data Scientist | 💻 Ex Web Developer | 📊 Machine Learning & AI Enthusiast  
-
----
-
-## 🚀 About Me
-- 🎯 Passionné par la Data Science, le Machine Learning et le Deep Learning  
-- 🌍 Basé à [ta ville, pays]  
-- 🛠 Ancienne expérience en Développement Web (Full-Stack)  
-- 📊 Actuellement concentré sur : NLP, Computer Vision et Big Data  
+🎓 **Master's student in Data Science for Smart Industry @ ENSAM Meknès (M2)**  
+📍 Based in Morocco  
+💡 Passionate about **Machine Learning, Deep Learning, Data Mining, Big Data & Decision Analytics**  
+🚀 Experienced in **end-to-end data pipelines**, from data collection & preprocessing to advanced analytics, visualization & deployment.  
 
 ---
 
-## 🛠️ Technical Skills
-**Programming & Data Science:**  
-![Python](https://img.shields.io/badge/Python-blue?logo=python)  
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=postgresql)  
-![R](https://img.shields.io/badge/R-blue?logo=r)  
-
-**Visualization:**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)  
-![Seaborn](https://img.shields.io/badge/Seaborn-lightblue)  
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow)  
-
-**Deployment & Tools:**  
-![Streamlit](https://img.shields.io/badge/Streamlit-red)  
-![Flask](https://img.shields.io/badge/Flask-black)  
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)  
+## 🔎 About Me  
+- Currently pursuing a **Master in Data Science for Smart Industry** at ENSAM Meknès.  
+- Skilled in **data-driven problem solving** with applications in **predictive modeling, optimization, and AI-based decision-making**.  
+- Experienced with **data mining, statistical modeling, data warehousing, and business intelligence**.  
+- Exploring **Big Data ecosystems** (Hadoop, Kafka, Docker) and **advanced ML/DL architectures** (CNN, RNN).  
 
 ---
 
-## 📂 Featured Projects
-- 🏠 [House Prices Prediction](https://github.com/username/house-prices)  
-- 🤖 [NLP Sentiment Analysis](https://github.com/username/nlp-sentiment)  
-- 📊 [Interactive Dashboard with Streamlit](https://github.com/username/streamlit-dashboard)  
+## 🛠️ Technical Skills  
+
+**Programming & Data Science**  
+- Python (NumPy, Pandas, Scikit-learn, Seaborn, SciPy, Matplotlib, BeautifulSoup, Selenium)  
+- Java, C, SQL  
+- LaTeX  
+
+**Machine Learning & AI**  
+- Supervised & Unsupervised Learning: KNN, Decision Trees (ID3, C4.5, CART), Random Forest, SVM, K-means  
+- Ensemble Methods: AdaBoost, Gradient Boosting, XGBoost, Bagging  
+- Deep Learning: Neural Networks (CNN, RNN)  
+
+**Statistics & Mathematics**  
+- Descriptive & Inferential Statistics  
+- Gradient methods & Optimization  
+- Stochastic Processes (Markov Chains)  
+
+**Data Visualization**  
+- Power BI, Seaborn, Matplotlib, Folium  
+
+**Databases & Big Data**  
+- MySQL, MongoDB   
+- OLAP & OLTP, Star Schema, Data Cubes, Pivot Tables
+- Hadoop, Apache Kafka 
+
+**Web Development & APIs**  
+- Front-end: HTML5, CSS3, JavaScript, Bootstrap  
+- Back-end: PHP, Laravel 
+
+**Other Tools**  
+- Docker  
+- Git/GitHub  
+- Excel Advanced (Pivot, VLOOKUP, VBA)  
 
 ---
 
-✉️ Reach me at: [ton email] | [LinkedIn](https://linkedin.com/in/ton-profil)
+## 📂 Projects  
+
+- **Predictive Analysis of Depression** (EST Oujda)  
+  Machine Learning models for predicting depression using ensemble methods (XGBoost, Random Forest, SVM).  
+
+- **Stock Management Web Application** (ATMOSTECH)  
+  Full-stack web app for inventory, billing & quotations (PHP, MySQL, MVC, HTML, CSS, JS).  
+
+- **Blockchain Voting Platform (PFE Project)**  
+  Secure e-voting system using Ethereum blockchain.  
+
+- **Tourism Analytics Dashboard**  
+  Scraped & analyzed Moroccan tourism trends using NLP, Pandas, Streamlit.  
+
+- **Customer Vehicle Preference Prediction**  
+  Recommended suitable vehicle types using ML models (SVM, Random Forest).  
+
+## 🌍 Languages  
+- Arabic – Native/Bilingual  
+- French – Fluent  
+- English – Fluent  
+
+💬 *"Always seeking to transform raw data into valuable insights for real-world impact."*  
