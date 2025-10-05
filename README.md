@@ -30,29 +30,4 @@
 ### Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![AJAX](https://img.shields.io/badge/AJAX-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)  
 
-### Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![SPSS](https://img.shields.io/badge/SPSS-006699?style=for-the-badge&logo=ibm&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)   
-
-###
 ---
-
-## 📂 Projects  
-
-- **Predictive Analysis of Depression** (EST Oujda)  
-  Machine Learning models for predicting depression using ensemble methods (XGBoost, Random Forest, SVM).  
-
-- **Stock Management Web Application** (ATMOSTECH)  
-  Full-stack web app for inventory, billing & quotations (PHP, MySQL, MVC, HTML, CSS, JS).  
-
-- **Tourism Analytics Dashboard**  
-  Scraped & analyzed Moroccan tourism trends using NLP, Pandas, Streamlit.  
-
-- **Customer Vehicle Preference Prediction**  
-  Recommended suitable vehicle types using ML models (SVM, Random Forest).  
-
-## 🌍 Languages  
-- Arabic – Native/Bilingual  
-- French – Fluent  
-- English – Fluent  
-
-💬 *"Always seeking to transform raw data into valuable insights for real-world impact."*  
